@@ -68,6 +68,7 @@
                     <baseClassForTests>
                         de.novatec.granasummit.contracts.BaseTest
                     </baseClassForTests>
+
                 </configuration>
             </plugin>
 
