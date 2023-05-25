@@ -1,4 +1,4 @@
-package app;
+package de.novatec.granasummit.contracts;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
