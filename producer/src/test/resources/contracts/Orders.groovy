@@ -12,6 +12,9 @@ Contract.make {
         }
     }
     response {
+        headers {
+            contentType(applicationJson())
+        }
         body(
                 id:fromRequest().query("number"),
                 name:anyNonEmptyString(),

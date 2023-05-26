@@ -6,7 +6,7 @@
 
 
 
-    <groupId>org.example</groupId>
+    <groupId>de.novatec.granasummit</groupId>
     <artifactId>contractSamples</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
